@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GearVrSDK.iml" filepath="$PROJECT_DIR$/GearVrSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aSeeTrackerSDK/aSeeTrackerSDK.iml" filepath="$PROJECT_DIR$/aSeeTrackerSDK/aSeeTrackerSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/aSeeTrackerSDK/src/main/jni/FDG/CalibrationGaze/CalibrationGaze.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/aSeeTrackerSDK/src/main/jni/FDG/FDGAPI/FDG_Common.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/aSeeTrackerSDK/src/main/jni/FDG/FDGAPI/FD_Gaze_API.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/aSeeTrackerSDK/src/main/jni/FDG/FDGAPI/FD_Gaze_API.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/aSeeTrackerSDK/src/main/jni/FDG/FeaturesDetection/FeatureDetectionAPI.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/aSeeTrackerSDK/src/main/jni/UVCCamera/uvc/aSeeDeviceCtrl.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/aSeeTrackerSDK/src/main/jni/UVCCamera/uvccamera/aSeeDeviceCtrl.cpp" charset="GBK" />
+  </component>
+</project>
